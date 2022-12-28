@@ -1,0 +1,329 @@
+{
+    "_declaration": {
+      "_attributes": {
+        "version": "1.0",
+        "encoding": "UTF-8"
+      }
+    },
+    "_doctype": "propertyList SYSTEM \"http://reaxml.realestate.com.au/propertyList.dtd\"",
+    "propertyList": {
+      "_attributes": {
+        "date": "2009-01-01-12:30:00"
+      },
+      "residential": [
+        {
+          "_attributes": {
+            "modTime": "2009-01-01-12:30:00",
+            "status": "current"
+          },
+          "agentID": {
+            "_text": "XNWXNW"
+          },
+          "uniqueID": {
+            "_text": "ABCD1234"
+          },
+          "authority": {
+            "_attributes": {
+              "value": "exclusive"
+            }
+          },
+          "underOffer": {
+            "_attributes": {
+              "value": "no"
+            }
+          },
+          "newConstruction": {
+            "_text": "1"
+          },
+          "listingAgent": {
+            "name": {
+              "_text": "Mr. John Doe"
+            },
+            "telephone": {
+              "_attributes": {
+                "type": "mobile"
+              },
+              "_text": "05 1234 5678"
+            },
+            "email": {
+              "_text": "jdoe@somedomain.com.au"
+            },
+            "twitterURL": {
+              "_text": "https://www.twitter.com/JohnDoe"
+            }
+          },
+          "price": {
+            "_attributes": {
+              "display": "yes"
+            },
+            "_text": "500000"
+          },
+          "priceView": {
+            "_text": "Between $400,000 and $600,000"
+          },
+          "address": {
+            "_attributes": {
+              "display": "yes"
+            },
+            "subNumber": {
+              "_text": "2"
+            },
+            "streetNumber": {
+              "_text": "39"
+            },
+            "street": {
+              "_text": "Main Road"
+            },
+            "suburb": {
+              "_attributes": {
+                "display": "yes"
+              },
+              "_text": "RICHMOND"
+            },
+            "state": {
+              "_text": "vic"
+            },
+            "postcode": {
+              "_text": "3121"
+            },
+            "country": {
+              "_text": "AUS"
+            }
+          },
+          "municipality": {
+            "_text": "Yarra"
+          },
+          "streetDirectory": {
+            "_attributes": {
+              "type": "melways"
+            },
+            "page": {
+              "_text": "44"
+            },
+            "reference": {
+              "_text": "G7"
+            }
+          },
+          "category": {
+            "_attributes": {
+              "name": "House"
+            }
+          },
+          "headline": {
+            "_text": "SHOW STOPPER!!!"
+          },
+          "description": {
+            "_text": "Don't pass up an opportunity like this! First to inspect will buy! Close to local amenities and schools. Features lavishly appointed bathrooms, modern kitchen, rustic outhouse.Don't pass up an opportunity like this! First to inspect will buy! Close to local amenities and schools. Features lavishly appointed bathrooms, modern kitchen, rustic outhouse."
+          },
+          "features": {
+            "bedrooms": {
+              "_text": "4"
+            },
+            "bathrooms": {
+              "_text": "2"
+            },
+            "ensuite": {
+              "_text": "2"
+            },
+            "garages": {
+              "_text": "3"
+            },
+            "carports": {
+              "_text": "2"
+            },
+            "remoteGarage": {
+              "_text": "yes"
+            },
+            "secureParking": {
+              "_text": "yes"
+            },
+            "airConditioning": {
+              "_text": "1"
+            },
+            "alarmSystem": {
+              "_text": "1"
+            },
+            "vacuumSystem": {
+              "_text": "no"
+            },
+            "intercom": {
+              "_text": "no"
+            },
+            "pool": {
+              "_attributes": {
+                "type": "inground"
+              },
+              "_text": "yes"
+            },
+            "spa": {
+              "_attributes": {
+                "type": "inground"
+              },
+              "_text": "no"
+            },
+            "tennisCourt": {
+              "_text": "yes"
+            },
+            "balcony": {
+              "_text": "yes"
+            },
+            "deck": {
+              "_text": "yes"
+            },
+            "courtyard": {
+              "_text": "yes"
+            },
+            "outdoorEnt": {
+              "_text": "yes"
+            },
+            "shed": {
+              "_text": "yes"
+            },
+            "fullyFenced": {
+              "_text": "yes"
+            },
+            "openFirePlace": {
+              "_text": "1"
+            },
+            "heating": {
+              "_attributes": {
+                "type": "other"
+              }
+            },
+            "hotWaterService": {
+              "_attributes": {
+                "type": "gas"
+              }
+            },
+            "otherFeatures": {
+              "_text": "balcony, courtyard, shed"
+            }
+          },
+          "landDetails": {
+            "area": {
+              "_attributes": {
+                "unit": "squareMeter"
+              },
+              "_text": "80"
+            }
+          },
+          "buildingDetails": {
+            "area": {
+              "_attributes": {
+                "unit": "square"
+              },
+              "_text": "40"
+            },
+            "energyRating": {
+              "_text": "4.5"
+            }
+          },
+          "inspectionTimes": {
+            "inspection": [
+              {
+                "_text": "21-Jan-2009 11:00am to 1:00pm"
+              },
+              {
+                "_text": "22-Jan-2009 3:00pm to 3:30pm"
+              }
+            ]
+          },
+          "vendorDetails": {
+            "name": {
+              "_text": "Mr. John Doe"
+            },
+            "telephone": {
+              "_attributes": {
+                "type": "mobile"
+              },
+              "_text": "05 1234 5678"
+            }
+          },
+          "externalLink": {
+            "_attributes": {
+              "href": "http://www.realestate.com.au/"
+            }
+          },
+          "images": {
+            "img": [
+              {
+                "_attributes": {
+                  "id": "m",
+                  "modTime": "2009-01-01-12:30:00",
+                  "url": "http://www.realestate.com.au/tmp/imageM.jpg",
+                  "format": "jpg"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "a",
+                  "modTime": "2009-01-01-12:30:00",
+                  "url": "http://www.realestate.com.au/tmp/imageA.jpg",
+                  "format": "jpg"
+                }
+              }
+            ]
+          },
+          "objects": {
+            "floorplan": [
+              {
+                "_attributes": {
+                  "id": "1",
+                  "modTime": "2009-01-01-12:30:00",
+                  "url": "http://www.realestate.com.au/tmp/floorplan1.gif",
+                  "format": "gif"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "2",
+                  "modTime": "2009-01-01-12:30:00",
+                  "url": "http://www.realestate.com.au/tmp/floorplan2.gif",
+                  "format": "gif"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "_attributes": {
+            "modTime": "2009-01-01-12:30:00",
+            "status": "sold"
+          },
+          "agentID": {
+            "_text": "XNWXNW"
+          },
+          "uniqueID": {
+            "_text": "ABCD12345"
+          },
+          "soldDetails": {
+            "price": {
+              "_attributes": {
+                "display": "yes"
+              },
+              "_text": "580000"
+            },
+            "date": {
+              "_text": "2009-01-10-12:30:00"
+            }
+          }
+        },
+        {
+          "_attributes": {
+            "modTime": "2009-01-01-12:30:00",
+            "status": "withdrawn"
+          },
+          "agentID": {
+            "_text": "XNWXNW"
+          },
+          "uniqueID": {
+            "_text": "ABCD123456"
+          }
+        }
+      ],
+      "_comment": [
+        " Sold listing ",
+        " Deleted listing "
+      ]
+    }
+  }
